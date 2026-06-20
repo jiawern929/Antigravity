@@ -1,0 +1,10 @@
+# 忽略 Chrome 临时运行缓存文件夹
+chrome_temp_profile/
+chrome_temp_profile_onasianews/
+
+# 忽略 Python 编译缓存文件
+__pycache__/
+*.pyc
+
+# 忽略本地环境变量配置文件（防止泄露 API Key 等敏感信息）
+.env
