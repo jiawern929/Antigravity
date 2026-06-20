@@ -1,0 +1,15 @@
+2026/06/17-20:04:18.383 17ec Reusing MANIFEST C:\Users\jiawe\chrome_gsc_profile\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/06/17-20:04:18.384 17ec Recovering log #3
+2026/06/17-20:04:18.385 17ec Reusing old log C:\Users\jiawe\chrome_gsc_profile\Default\Sync Data\LevelDB/000003.log 
+2026/06/17-20:04:44.561 f98 Level-0 table #5: started
+2026/06/17-20:04:44.564 f98 Level-0 table #5: 120987 bytes OK
+2026/06/17-20:04:44.564 f98 Delete type=0 #3
+2026/06/17-20:04:46.594 f98 Level-0 table #7: started
+2026/06/17-20:04:46.596 f98 Level-0 table #7: 97921 bytes OK
+2026/06/17-20:04:46.597 f98 Delete type=0 #4
+2026/06/17-20:04:48.126 f98 Level-0 table #9: started
+2026/06/17-20:04:48.130 f98 Level-0 table #9: 97929 bytes OK
+2026/06/17-20:04:48.131 f98 Delete type=0 #6
+2026/06/17-23:52:36.949 4a08 Level-0 table #11: started
+2026/06/17-23:52:36.959 4a08 Level-0 table #11: 107923 bytes OK
+2026/06/17-23:52:36.960 4a08 Delete type=0 #8

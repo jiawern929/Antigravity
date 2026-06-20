@@ -1,0 +1,8 @@
+{
+    "title": "Your Article Title Here",
+    "content": "<p>Your HTML content here. You can use standard HTML tags like &lt;p&gt;, &lt;h2&gt;, &lt;img&gt; etc.</p>",
+    "status": "draft",
+    "sites": [
+        "dushitoutiao"
+    ]
+}
